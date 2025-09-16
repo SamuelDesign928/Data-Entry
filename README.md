@@ -12,8 +12,8 @@ This script helps manage the membership records for a rock climbing club. It all
 
 ## CSV Format
 The CSV file should have the following headers in the first row:
-This is required for the script to work properly. The script assumes that the `ID` column is numeric and is incremented automatically with each new member. 
-The attached csv file has the correct format
+This is required for the script to work properly. The script assumes that the `ID` column is numeric and is incremented automatically with each new member. It is also important to have a line space below the csv.
+The attached csv file has the correct format.
 
 ### Example CSV format:
 ```csv
